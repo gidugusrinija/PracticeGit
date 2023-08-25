@@ -1,3 +1,6 @@
 this is an example text file
 
 changes are made in branch3
+
+changes made in branch2 added
+
